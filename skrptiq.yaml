@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "f10b7941-2b7f-4414-9993-193a5b7291fa"
+name: "company-style-guide"
+display_name: "Company Style Guide"
+description: "Reference to the company's internal style guide for consistent communication"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-company-style-guide"
+category: "shared"
+tags:
+  - "shared"
+  - "source"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 1
+  documents: 0
+  assets: 0
+  total: 1
