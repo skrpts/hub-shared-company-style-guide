@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "f10b7941-2b7f-4414-9993-193a5b7291fa"
+id: "43693e36-3c0b-4e74-89f4-ca5230761faf"
 name: "company-style-guide"
 display_name: "Company Style Guide"
 description: "Reference to the company's internal style guide for consistent communication"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
