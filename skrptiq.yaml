@@ -3,7 +3,7 @@ id: "43693e36-3c0b-4e74-89f4-ca5230761faf"
 name: "company-style-guide"
 display_name: "Company Style Guide"
 description: "Reference to the company's internal style guide for consistent communication"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "source"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
