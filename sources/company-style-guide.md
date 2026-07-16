@@ -79,7 +79,7 @@ Every meeting summary email should follow this format:
 4. **Open Items:** Anything unresolved that needs further discussion
 5. **Next Steps:** When the next meeting is, or what happens next
 
-Keep the entire summary to one page or less. If the meeting ran long, summarise — do not transcribe.
+Keep the entire summary to one page or less. If the meeting ran long, summarize — do not transcribe.
 
 ---
 

@@ -3,7 +3,7 @@ id: "43693e36-3c0b-4e74-89f4-ca5230761faf"
 name: "company-style-guide"
 display_name: "Company Style Guide"
 description: "Reference to the company's internal style guide for consistent communication"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T13:49:50.657Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/company-style-guide/security"
